@@ -1,0 +1,20 @@
+body{
+    background: darkslateblue;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.container{
+    max-width: 400px;
+/* }
+.my-3{
+    margin-left: 120px;
+}
+.my-4{
+    margin-left: 110px;
+}
+.city1{
+    margin-left: 40px;
+}
+.my-6{
+    margin-right: -10px;
+} */
